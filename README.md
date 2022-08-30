@@ -7,4 +7,4 @@ Combino mis conocimientos como desarrolladora web con mi profesión de diseñado
 
 <h3 align="left">Puedes contactarme en:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/tamara-berim" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/bryancamilopineda/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tamara-berim" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/tamara-berim" height="30" width="40" /></a>
