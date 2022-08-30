@@ -7,5 +7,5 @@ Combino mis conocimientos como desarrolladora web con mi profesión de diseñado
 
 
 ## Encuéntrame en: <a href="https://github.com/tamarab9"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/tamarab9/tamarab9/main/clipart382410.png"></a>
-- Sharing updates on <a href="https://www.linkedin.com/in/tamara-berim">LinkedIn</a> 💼
+- Compartir actualizaciones en <a href="https://www.linkedin.com/in/tamara-berim">LinkedIn</a> 💼
 
